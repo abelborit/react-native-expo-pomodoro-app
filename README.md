@@ -17,10 +17,12 @@
 
 ### \* IMÁGENES DE LA APLICACIÓN:
 
-![Screenshot_1702398608](./screenshotsApp/Screenshot_1702398608.png)
-![Screenshot_1702398622](./screenshotsApp/Screenshot_1702398622.png)
-![Screenshot_1702398625](./screenshotsApp/Screenshot_1702398625.png)
-![Screenshot_1702398633](./screenshotsApp/Screenshot_1702398633.png)
-![Screenshot_1702398642](./screenshotsApp/Screenshot_1702398642.png)
+<div class="image-container">
+  <img src="./screenshotsApp/Screenshot_1702398608.png" alt="image" width="200">
+  <img src="./screenshotsApp/Screenshot_1702398622.png" alt="image" width="200">
+  <img src="./screenshotsApp/Screenshot_1702398625.png" alt="image" width="200">
+  <img src="./screenshotsApp/Screenshot_1702398633.png" alt="image" width="200">
+  <img src="./screenshotsApp/Screenshot_1702398642.png" alt="image" width="200">
+</div>
 
 ---
